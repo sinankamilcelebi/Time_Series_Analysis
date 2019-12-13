@@ -32,13 +32,13 @@ Aksesuarlar
 ## Tahminleri Doğrulama (TSA Verify Estimates)
 
 <p align = "center">
-<img src = "TSA_Verify_Estimates.jpg" alt = "TSA Verify Estimates" title = "TSA Verify Estimates" width = "600" height = "150" />
+<img src = "TSA_Verify_Estimates.jpg" alt = "TSA Verify Estimates" title = "TSA Verify Estimates" width = "600" height = "450" />
 </p>
 
 ## Veri Keşfi-Araması (TSA Data Exploration)
 
 <p align = "center">
-<img src = "TSA_Data_Exploration.jpg" alt = "TSA Data Exploration" title = "TSA Data Exploration" width = "600" height = "150" />
+<img src = "TSA_Data_Exploration.jpg" alt = "TSA Data Exploration" title = "TSA Data Exploration" width = "600" height = "450" />
 </p>
 
 ## Referanslar
